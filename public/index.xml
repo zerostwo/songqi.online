@@ -1,0 +1,267 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homepage on Songqi Duan | 段松岐</title>
+    <link>/</link>
+    <description>Recent content in Homepage on Songqi Duan | 段松岐</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Songqi&#39;s Blog</title>
+      <link>/en/</link>
+      <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
+      <author>Songqi Duan</author>
+      <guid>/en/</guid>
+      <description>
+        
+        
+        &lt;script&gt;location.href=&#39;/en/&#39;;&lt;/script&gt;
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>中文日志</title>
+      <link>/cn/</link>
+      <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
+      <author>段松岐</author>
+      <guid>/cn/</guid>
+      <description>
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>歌词</title>
+      <link>/lyric/</link>
+      <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/lyric/</guid>
+      <description>
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/about/</guid>
+      <description>
+        &lt;p&gt;My name is Songqi Duan. You can know more about me on my &lt;a href=&#34;../vitae/&#34;&gt;vitae&lt;/a&gt;. I love mathematics and computer science. I plan to become a researcher in the future, and I am still an undergraduate (entered in September 2017). After entering university, I discovered the direction of bioinformatics. When I saw her at first glance, I knew that I could not leave her in the future. As the saying goes, a bioinformatics learner who can’t program is not a good food man, so I started my long self-study in bioinformatics.&lt;/p&gt;
+&lt;p&gt;I am calm, silent, flexible, adaptable, and strongly dissatisfied with the status quo. For anything of interest, I must explore a reasonable explanation. Like theory and abstract things, like conceptual thinking, but not social. In the area of interest, I have the extraordinary ability to focus and solve problems in depth. Have a skeptical spirit, sometimes like to criticize, often good at analysis.&lt;/p&gt;
+&lt;h1 id=&#34;personal-interests&#34;&gt;Personal interests&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Dog&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;There was a Schnauzer at home, strictly following the &lt;a href=&#34;/cn/2020/08/ten-commandments-for-dogs/&#34;&gt;Ten Commandments for Dogs&lt;/a&gt;.&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Animation&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The Naruto that has been chasing since childhood is over, and now I prefer to watch the new fan of each quarter, especially about love and daily life.&lt;/p&gt;
+&lt;h1 id=&#34;site-structure&#34;&gt;Site structure&lt;/h1&gt;
+&lt;p&gt;The template of this site was moved from &lt;a href=&#34;https://github.com/rbind/yihui&#34;&gt;Yihui&lt;/a&gt;, I really like his concise style, especially this Siyuan Song Ti is simply in love; if you find any page has any If you make a mistake, you can click the edit link on the menu bar to edit the source file of the article, and submit a merge request to me on Github. By the way, the log articles on this site can be navigated with the left and right arrows on the keyboard. If you want to start from Pangu, just press the right arrow step by step from the first article; for the smoothest reading experience, I strongly recommend Install &lt;a href=&#34;https://db.songqi.online/SiYuanSongTi.zip&#34;&gt;Siyuan Song Ti&lt;/a&gt;.&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>/en/vitae/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/vitae/</guid>
+      <description>
+        &lt;h1 id=&#34;songqi-duan&#34;&gt;Songqi Duan&lt;/h1&gt;
+&lt;h2 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h2&gt;
+&lt;p&gt;
+&lt;!--Easter egg!--&gt;
+&lt;/p&gt;
+&lt;p&gt;Email: &lt;a href=&#34;mailto:songqi.duan@outlook.com&#34;&gt;songqi.duan@outlook.com&lt;/a&gt;; Homepage: &lt;a href=&#34;https://songqi.online&#34;&gt;https://songqi.online&lt;/a&gt;; Twitter &lt;a href=&#34;https://twitter.com/duansongqi1999&#34;&gt;@duansongqi1999&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
+&lt;p&gt;Single-cell RNA seq; Gut flora; Data visualization.&lt;/p&gt;
+&lt;h2 id=&#34;education-background&#34;&gt;Education Background&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2017.09 ~ Present, Undergraduate, Food Science and Engineering, &lt;a href=&#34;https://english.sicau.edu.cn/&#34;&gt;Sichuan Agricultural University&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;p&gt;See my &lt;a href=&#34;https://scholar.google.com/citations?user=cio27iwAAAAJ&amp;amp;hl=en&#34;&gt;Google Scholar page&lt;/a&gt; for a full list of publications.&lt;/p&gt;
+&lt;h3 id=&#34;in-english&#34;&gt;In English&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Yanyan Su, &lt;strong&gt;Songqi Duan&lt;/strong&gt;, Huilan Zhang, et al. &amp;ldquo;Preparation and characterization of Konjac glucomannan and pullulan composite films for strawberry preservation.&amp;rdquo; &lt;em&gt;Carbohydrate Polymers&lt;/em&gt;. (IF=7.182) &lt;a href=&#34;https://doi.org/10.1016/j.carbpol.2020.116446&#34;&gt;DOI: 10.1016/j.carbpol.2020.116446&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Yuntao Liu, Tingting Tang, &lt;strong&gt;Songqi Duan&lt;/strong&gt;, et al. &amp;ldquo;The purification, structural characterization and antidiabetic activity of a polysaccharide from &lt;em&gt;Anoectochilus roxburghii&lt;/em&gt;.&amp;rdquo; &lt;em&gt;Food Funct&lt;/em&gt;. (IF=4.171) &lt;a href=&#34;https://doi.org/10.1039/C9FO00860H&#34;&gt;DOI: 10.1039/C9FO00860H&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Yuntao Liu, Tingting Tang, &lt;strong&gt;Songqi Duan&lt;/strong&gt;, et al. &amp;ldquo;Effects of sodium alginate and rice variety on the physicochemical characteristics and 3D printing feasibility of rice paste.&amp;rdquo; &lt;em&gt;Lwt&lt;/em&gt;. (IF=4.006) &lt;a href=&#34;https://doi.org/10.1016/j.lwt.2020.109360&#34;&gt;DOI: 10.1016/j.lwt.2020.109360&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Yuntao Liu, Tingting Tang, &lt;strong&gt;Songqi Duan&lt;/strong&gt;, et al. &amp;ldquo;Applicability of Rice Doughs as Promising Food Materials in Extrusion-Based 3D Printing.&amp;rdquo; &lt;em&gt;Food and Bioprocess Technology&lt;/em&gt;. (IF=3.356) &lt;a href=&#34;https://doi.org/10.1007/s11947-020-02415-y&#34;&gt;DOI: 10.1007/s11947-020-02415-y&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Yuntao Liu, Yuan Yuan, &lt;strong&gt;Songqi Duan&lt;/strong&gt;, et al. (2020). &amp;ldquo;Preparation and characterization of chitosan films with three kinds of molecular weight for food packaging.&amp;rdquo; &lt;em&gt;Int J Biol Macromol&lt;/em&gt;. (IF=5.162) &lt;a href=&#34;https://doi.org/10.1016/j.ijbiomac.2020.03.217&#34;&gt;DOI: 10.1016/j.ijbiomac.2020.03.217&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Yuntao Liu, Xiaoyu Duan, &lt;strong&gt;Songqi Duan&lt;/strong&gt;, et all. (2020). &amp;ldquo;Effects of in vitro digestion and fecal fermentation on stability and metabolic behavior of polysaccharides from &lt;em&gt;Craterellus cornucopioides&lt;/em&gt;.&amp;rdquo; &lt;em&gt;Food Funct&lt;/em&gt;. (IF=4.171) &lt;a href=&#34;https://doi.org/10.1039/D0FO01430C&#34;&gt;DOI: 10.1039/D0FO01430C&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;in-chinese&#34;&gt;In Chinese&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Songqi Duan&lt;/strong&gt;, Tingting Tang, Yixi Liu, et all. (2020). &amp;ldquo;Effects of Food Colloids on the 3D Printing Properties of Aloe vera Gel.&amp;rdquo; &lt;em&gt;Food and Fermentation Industries&lt;/em&gt;. (CSCD) &lt;a href=&#34;https://doi.org/10.13995/j.cnki.11-1802/ts.024784&#34;&gt;DOI: 10.13995/j.cnki.11-1802/ts.024784&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Xiaoyu Duan, &lt;strong&gt;Songqi Duan&lt;/strong&gt;, Huilan Zhang, et all. (2020). &amp;ldquo;Screening of Mango Waste Degrading Bacteria and Optimization of Fermentation Conditions of Lentinus Edodes Mixed Bacteria.&amp;rdquo; &lt;em&gt;Journal of Sichuan Agricultural University&lt;/em&gt;. (CSCD) &lt;a href=&#34;https://doi.org/10.16036/j.issn.1000-2650.2020.03.009&#34;&gt;DOI: 10.16036/j.issn.1000-2650.2020.03.009&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;website-management&#34;&gt;Website Management&lt;/h3&gt;
+&lt;p&gt;Jan 2018 - Present&lt;/p&gt;
+&lt;p&gt;I created and maintained web pages for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Personal blog: &lt;a href=&#34;https://songqi.online&#34;&gt;https://songqi.online&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Personal academic homepage: &lt;a href=&#34;https://academic.songqi.online&#34;&gt;https://academic.songqi.online&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Knowing the statistics and ranking website of college entrance examination related columns: &lt;a href=&#34;https://zzmath.top&#34;&gt;https://zzmath.top&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;computer-skills&#34;&gt;Computer Skills&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Statistical Packages: &lt;a href=&#34;http://www.r-project.org&#34;&gt;R&lt;/a&gt;, Graphpad Prism&lt;/li&gt;
+&lt;li&gt;Languages: Python, R, HTML/CSS, SQL, Bash&lt;/li&gt;
+&lt;li&gt;Applications: Adobe Photoshop, Adobe Illustrator, Office 365&lt;/li&gt;
+&lt;li&gt;Operating Systems: 70% Windows and 30% Ubuntu&lt;/li&gt;
+&lt;/ul&gt;
+
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>关于</title>
+      <link>/cn/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cn/about/</guid>
+      <description>
+        &lt;h1 id=&#34;我是谁&#34;&gt;我是谁&lt;/h1&gt;
+&lt;p&gt;我叫段松岐（Songqi Duan）热爱数学和计算机科学，未来打算成为一名科研工作者，目前还是一名本科生（2017年9月入学）。然而由于不可抗力，本科的我选择了食品科学与工程这个专业。进入大学后，发现了生物信息学这个方向，我看到她的第一眼，我就知道我以后离不开她。俗（xia）话（che）说（de）不会编程的生物信息学习者不是一名好的食品人，因此我就开始了我漫长的生物信息学自学之路……正经介绍请参见&lt;a href=&#34;../vitae/&#34;&gt;我的简历&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;本人性格沉静、缄默，有弹性、适应能力强、强烈不满于现状。对任何感兴趣的事物，都要探索一个合理的解释。喜欢理论和抽象的事物，喜欢理念思维不喜欢社交。在感兴趣的范畴内，有非凡能力去专注而深入地解决问题。有怀疑精神，有时喜欢批判，常善于分析。&lt;/p&gt;
+&lt;h1 id=&#34;个人兴趣&#34;&gt;个人兴趣&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;狗狗&lt;/p&gt;
+&lt;p&gt;家里面有只雪纳瑞在陪伴，严格按照&lt;a href=&#34;/cn/2020/08/ten-commandments-for-dogs/&#34;&gt;狗狗十戒&lt;/a&gt;陪伴他。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;动漫&lt;/p&gt;
+&lt;p&gt;从小追的火影已经结束了，现在更喜欢看每个季度的新番，尤其是恋爱狗粮番。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;本站架构&#34;&gt;本站架构&lt;/h1&gt;
+&lt;p&gt;本站模板从&lt;a href=&#34;https://github.com/rbind/yihui&#34;&gt;Yihui&lt;/a&gt; 那里搬过来的，很喜欢他设计的简明风格，尤其是这个思源宋体简直是爱了；如果你发现任何页面有任何错误，可以点击菜单栏上的编辑链接编辑该文的源文件，并在 Github 上向我提交一个合并请求。对了，本站的日志文章可以用键盘上的左右箭头导航，如果你要从盘古开天辟地看起，就到第一篇文章开始一步步按右箭头吧；为了最流畅的阅读体验，我强烈建议安装&lt;a href=&#34;https://db.songqi.online/SiYuanSongTi.zip&#34;&gt;思源宋体&lt;/a&gt;。&lt;/p&gt;
+
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>简历</title>
+      <link>/cn/vitae/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cn/vitae/</guid>
+      <description>
+        &lt;h1 id=&#34;段松岐&#34;&gt;段松岐&lt;/h1&gt;
+&lt;h2 id=&#34;联系方式&#34;&gt;联系方式&lt;/h2&gt;
+&lt;p&gt;Email：songqi.duan@outlook.com；主页：&lt;a href=&#34;https://songqi.online&#34;&gt;https://songqi.online&lt;/a&gt;；现在四川省雅安市四川农业大学食品学院就读&lt;/p&gt;
+&lt;h2 id=&#34;研究兴趣&#34;&gt;研究兴趣&lt;/h2&gt;
+&lt;p&gt;单细胞转录组；肠道菌群；数据可视化&lt;/p&gt;
+&lt;h2 id=&#34;教育背景&#34;&gt;教育背景&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;2017.09 ~ 至今 四川农业大学食品学院，工学学士在读&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;网站建设与管理&#34;&gt;网站建设与管理&lt;/h3&gt;
+&lt;p&gt;2018 年 01 月至今&lt;/p&gt;
+&lt;h4 id=&#34;建设网站&#34;&gt;建设网站&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;个人博客：&lt;a href=&#34;https://songqi.online&#34;&gt;https://songqi.online&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;个人学术主页：&lt;a href=&#34;https://academic.songqi.online&#34;&gt;https://academic.songqi.online&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;知乎高考相关专栏统计与排序网站：&lt;a href=&#34;https://zzmath.top&#34;&gt;https://zzmath.top&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;参与项目&#34;&gt;参与项目&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;2017.11~2018.11 长根小奥德蘑营养成分的测定及其多糖结构的初步鉴定，校级科研兴趣项目，2018389，柯玉（主持人，已结题）；&lt;strong&gt;段松岐&lt;/strong&gt;等&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2019.01~2019.12 梭柄松孢菇菌丝面团重组体系的3D精确打印研究，校级科研兴趣项目，2019547，&lt;strong&gt;段松岐&lt;/strong&gt;（主持人，已结题）；张铭月；洋汶等&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2019.05~2020.04 灰喇叭菌多糖的体外模拟消化及其肠道菌群发酵的研究，省级大学生创新训练计划项目，201910626073，&lt;strong&gt;段松岐&lt;/strong&gt;（主持人，已结题）；李仍树&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2020.01~2021.12 灰喇叭菌烹饪产品的体外模拟消化对其营养成分及抗氧化活性的研究，四川省科技创新创业苗子工程（重点项目），段小雨(主持人，在研)；&lt;strong&gt;段松岐&lt;/strong&gt;等&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;计算机水平&#34;&gt;计算机水平&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;统计软件：&lt;a href=&#34;http://www.r-project.org/&#34;&gt;R&lt;/a&gt;，Graphpad Prism；&lt;/li&gt;
+&lt;li&gt;语言：&lt;a href=&#34;https://www.python.org/&#34;&gt;Python&lt;/a&gt;，&lt;a href=&#34;http://www.r-project.org/&#34;&gt;R&lt;/a&gt;，HTML/CSS，SQL，Bash&lt;/li&gt;
+&lt;li&gt;应用程序：Adobe Photoshop，Adobe Illustrator，Office 365&lt;/li&gt;
+&lt;li&gt;操作系统：Windows和Ubuntu交替使用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;英语水平&#34;&gt;英语水平&lt;/h2&gt;
+&lt;p&gt;口语和听力都不行，阅读还可以，写作靠工具。&lt;/p&gt;
+&lt;h2 id=&#34;发表成果&#34;&gt;发表成果&lt;/h2&gt;
+&lt;h3 id=&#34;英文论文&#34;&gt;英文论文&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Yanyan Su, &lt;strong&gt;Songqi Duan&lt;/strong&gt;, Huilan Zhang, et al. &amp;ldquo;Preparation and characterization of Konjac glucomannan and pullulan composite films for strawberry preservation.&amp;rdquo; &lt;em&gt;Carbohydrate Polymers&lt;/em&gt;. (IF=7.182) &lt;a href=&#34;https://doi.org/10.1016/j.carbpol.2020.116446&#34;&gt;DOI: 10.1016/j.carbpol.2020.116446&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Yuntao Liu, Tingting Tang, &lt;strong&gt;Songqi Duan&lt;/strong&gt;, et al. &amp;ldquo;The purification, structural characterization and antidiabetic activity of a polysaccharide from &lt;em&gt;Anoectochilus roxburghii&lt;/em&gt;.&amp;rdquo; &lt;em&gt;Food Funct&lt;/em&gt;. (IF=4.171) &lt;a href=&#34;https://doi.org/10.1039/C9FO00860H&#34;&gt;DOI: 10.1039/C9FO00860H&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Yuntao Liu, Tingting Tang, &lt;strong&gt;Songqi Duan&lt;/strong&gt;, et al. &amp;ldquo;Effects of sodium alginate and rice variety on the physicochemical characteristics and 3D printing feasibility of rice paste.&amp;rdquo; &lt;em&gt;Lwt&lt;/em&gt;. (IF=4.006) &lt;a href=&#34;https://doi.org/10.1016/j.lwt.2020.109360&#34;&gt;DOI: 10.1016/j.lwt.2020.109360&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Yuntao Liu, Tingting Tang, &lt;strong&gt;Songqi Duan&lt;/strong&gt;, et al. &amp;ldquo;Applicability of Rice Doughs as Promising Food Materials in Extrusion-Based 3D Printing.&amp;rdquo; &lt;em&gt;Food and Bioprocess Technology&lt;/em&gt;. (IF=3.356) &lt;a href=&#34;https://doi.org/10.1007/s11947-020-02415-y&#34;&gt;DOI: 10.1007/s11947-020-02415-y&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Yuntao Liu, Yuan Yuan, &lt;strong&gt;Songqi Duan&lt;/strong&gt;, et al. (2020). &amp;ldquo;Preparation and characterization of chitosan films with three kinds of molecular weight for food packaging.&amp;rdquo; &lt;em&gt;Int J Biol Macromol&lt;/em&gt;. (IF=5.162) &lt;a href=&#34;https://doi.org/10.1016/j.ijbiomac.2020.03.217&#34;&gt;DOI: 10.1016/j.ijbiomac.2020.03.217&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Yuntao Liu, Xiaoyu Duan, &lt;strong&gt;Songqi Duan&lt;/strong&gt;, et all. (2020). &amp;ldquo;Effects of in vitro digestion and fecal fermentation on stability and metabolic behavior of polysaccharides from &lt;em&gt;Craterellus cornucopioides&lt;/em&gt;.&amp;rdquo; &lt;em&gt;Food Funct&lt;/em&gt;. (IF=4.171) &lt;a href=&#34;https://doi.org/10.1039/D0FO01430C&#34;&gt;DOI: 10.1039/D0FO01430C&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;中文论文&#34;&gt;中文论文&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;段小雨，&lt;strong&gt;段松岐&lt;/strong&gt;，张蕙兰等（2020），芒果废弃物降解菌的筛选及香菇混菌发酵条件优化，四川农业大学学报，（中文核心期刊）&lt;a href=&#34;https://doi.org/16036/j.issn.1000-2650.2020.03.009&#34;&gt;DOI: 16036/j.issn.1000-2650.2020.03.009&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;段松岐&lt;/strong&gt;，唐婷婷，刘奕希等（2020），食品胶体对库拉索芦荟凝胶的3D打印特性的影响，食品与发酵工业，（中文核心期刊）&lt;a href=&#34;https://doi.org/10.13995/j.cnki.11-1802/ts.024784&#34;&gt;DOI: 10.13995/j.cnki.11-1802/ts.024784&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;专利&#34;&gt;专利&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;一种人体胃肠道模拟消化器，2020，ZL201921097181.9，&lt;strong&gt;段松岐&lt;/strong&gt;；李仍树；张铭月等&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;一种木姜叶柯活性成分的提取装置，2019，ZL201821730652.0，&lt;strong&gt;段松岐&lt;/strong&gt;；李益文；颜滟苏等&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

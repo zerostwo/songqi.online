@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Songqi Duan | 段松岐</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Songqi Duan | 段松岐</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>出口</title>
+      <link>/post/a-way-out/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-way-out/</guid>
+      <description>高中的时候我看到基尔霍夫定律后，我看待周围一切人都当作载流子对待，中午下课去食堂，又或者回家为并联电路。周而复始，大家都没什么不同。 而现在我</description>
+    </item>
+    
+  </channel>
+</rss>

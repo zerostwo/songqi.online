@@ -56,12 +56,9 @@ menu:
     - name: "简历"
       url: "/cn/vitae/"
       weight: 4
-    - name: "歌词"
-      url: "/lyric/"
-      weight: 5
     - name: "English"
       url: "/en/"
-      weight: 6
+      weight: 5
 
 params:
   description: "Personal website of Songqi Duan; 段松岐的个人网站"

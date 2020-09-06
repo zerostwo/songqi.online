@@ -62,7 +62,7 @@ menu:
 
 params:
   description: "Personal website of Songqi Duan; 段松岐的个人网站"
-  footer: "&copy; [Songqi Duan](/) 2020"
+  footer: "&copy; [Songqi Duan](/) 2018 - 2020"
   disqusURL: "https://songqi.online"
   customJS:
     - "js/fix-toc.js"
@@ -89,16 +89,6 @@ params:
       url: "/"
       alt: "Songqi Duan"
       tag: ""
-    knitr:
-      img: "/knitr/images/knit-logo.png"
-      url: "/knitr/"
-      alt: "knitr logo"
-      tag: "knitr: elegant, flexible, and fast dynamic report generation with R"
-    tinytex:
-      img: "/images/logo-tinytex.png"
-      url: "/tinytex/"
-      alt: "tinytex logo"
-      tag: "TinyTeX: A lightweight and easy-to-maintain LaTeX distribution"
 
   author:
     en: "Songqi Duan"

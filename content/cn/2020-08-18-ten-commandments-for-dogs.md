@@ -1,5 +1,5 @@
 ---
-title: 狗狗十戒
+title: 狗狗十诫
 date: '2020-08-18'
 slug: ten-commandments-for-dogs
 ---

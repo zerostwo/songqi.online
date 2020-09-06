@@ -13,7 +13,7 @@ slug: "cn/about"
 
 1. 狗狗
 
-    家里面有只雪纳瑞在陪伴，严格按照[狗狗十戒](/cn/2020/08/ten-commandments-for-dogs/)陪伴他。
+    家里面有只雪纳瑞在陪伴，严格按照[狗狗十诫](/cn/2020/08/ten-commandments-for-dogs/)陪伴他。
 
 1. 动漫
 

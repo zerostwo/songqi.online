@@ -26,6 +26,7 @@ Email：songqi.duan@outlook.com；主页：<https://songqi.online>；现在四�
 
 - 个人博客：<https://songqi.online>
 - 个人学术主页：<https://academic.songqi.online>
+- 生物信息学笔记：<https://bioinfo.songqi.online>
 - 知乎高考相关专栏统计与排序网站：<https://zzmath.top>
 
 #### 参与项目

@@ -6,7 +6,7 @@ slug: kind-people
 
 ![想象力可以创造一切](https://db.songqi.online/imagination.GIF)
 
-你们都是我的[光](./2020-09-23-must-be-humble.md)呀！
+你们都是我的[光](/cn/2020/09/must-be-humble/)呀！
 
 ![唐婷婷](https://db.songqi.online/TTT.PNG)
 

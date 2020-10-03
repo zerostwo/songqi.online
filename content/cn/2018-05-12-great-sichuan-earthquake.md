@@ -1,5 +1,5 @@
 ---
-title: 汶川大地震
+title: 汶川大地震十周年
 date: '2018-05-12'
 slug: great-sichuan-earthquake
 ---

@@ -17,7 +17,7 @@
       <description>
         
         
-        &lt;script&gt;location.href=&#39;/en/&#39;;&lt;/script&gt;
+        &lt;script&gt;location.href=&#39;./en/&#39;;&lt;/script&gt;
         
       </description>
     </item>
@@ -47,7 +47,7 @@
 &lt;ol&gt;
 &lt;li&gt;Dog&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;There was a Schnauzer at home, strictly following the &lt;a href=&#34;/cn/2020/08/ten-commandments-for-dogs/&#34;&gt;Ten Commandments for Dogs&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;There was a Schnauzer at home, strictly following the &lt;a href=&#34;./cn/2020/08/ten-commandments-for-dogs/&#34;&gt;Ten Commandments for Dogs&lt;/a&gt;.&lt;/p&gt;
 &lt;ol start=&#34;2&#34;&gt;
 &lt;li&gt;Animation&lt;/li&gt;
 &lt;/ol&gt;
@@ -144,7 +144,7 @@
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;狗狗&lt;/p&gt;
-&lt;p&gt;家里面有只雪纳瑞在陪伴，严格按照&lt;a href=&#34;/cn/2020/08/ten-commandments-for-dogs/&#34;&gt;狗狗十诫&lt;/a&gt;陪伴他。&lt;/p&gt;
+&lt;p&gt;家里面有只雪纳瑞在陪伴，严格按照&lt;a href=&#34;./cn/2020/08/ten-commandments-for-dogs/&#34;&gt;狗狗十诫&lt;/a&gt;陪伴他。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;动漫&lt;/p&gt;

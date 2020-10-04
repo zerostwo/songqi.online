@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data2Vis on Songqi Duan | 段松岐</title>
+    <link>/data2vis/</link>
+    <description>Recent content in Data2Vis on Songqi Duan | 段松岐</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/data2vis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>小提琴图</title>
+      <link>/data2vis/violin-plot/</link>
+      <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/data2vis/violin-plot/</guid>
+      <description>Definition Violin plot allows to visualize the distribution of a numeric variable for one or several groups. Each ‘violin’ represents a group or a variable. The shape represents the density estimate of the variable: the more data points in a specific range, the larger the violin is for that range. It is really close to a boxplot, but allows a deeper understanding of</description>
+    </item>
+    
+    <item>
+      <title>直方图</title>
+      <link>/data2vis/histogram/</link>
+      <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/data2vis/histogram/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

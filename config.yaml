@@ -12,6 +12,7 @@ rssLimit: 100
 permalinks:
   cn: "/cn/:year/:month/:slug/"
   en: "/en/:year/:month/:slug/"
+  data2vis: "/data2vis/:slug/"
 
 menu:
   main:
@@ -27,6 +28,9 @@ menu:
     - name: "日志"
       url: "/cn/"
       weight: 4
+    # - name: "Data2Vis"
+    #   url: "/data2vis/"
+    #   weight: 5
   en:
     - name: "Home"
       url: "/"
@@ -60,6 +64,16 @@ menu:
       url: "/en/"
       weight: 5
 
+  data2vis:
+    - name: "首页"
+      url: "/"
+      weight: 1
+    - name: "画廊"
+      url: "/data2vis/"
+      weight: 2
+    - name: "注意事项"
+      url: "/data2vis/caveats"
+      weight: 3
 params:
   description: "Personal website of Songqi Duan; 段松岐的个人网站"
   footer: "&copy; [Songqi Duan](/) 2018 - 2020"
@@ -97,11 +111,13 @@ params:
   lang:
     edit:
       cn: "编辑"
+      data2vis: "编辑"
     license:
       cn: "版权"
+      data2vis: "版权"
     subscribe:
       cn: "订阅"
-
+      data2vis: "订阅"
 blackfriday:
     extensionsmask: ["noIntraEmphasis"]
     fractions: false

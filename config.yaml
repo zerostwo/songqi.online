@@ -107,6 +107,7 @@ params:
   author:
     en: "Songqi Duan"
     cn: "段松岐"
+    data2vis: "段松岐"
 
   lang:
     edit:
@@ -118,6 +119,7 @@ params:
     subscribe:
       cn: "订阅"
       data2vis: "订阅"
+
 blackfriday:
     extensionsmask: ["noIntraEmphasis"]
     fractions: false

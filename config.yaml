@@ -28,9 +28,9 @@ menu:
     - name: "日志"
       url: "/cn/"
       weight: 4
-    # - name: "Data2Vis"
-    #   url: "/data2vis/"
-    #   weight: 5
+    - name: "Data2Vis"
+      url: "/data2vis/"
+      weight: 5
   en:
     - name: "Home"
       url: "/"
@@ -68,10 +68,10 @@ menu:
     - name: "首页"
       url: "/"
       weight: 1
-    - name: "画廊"
+    - name: "R Gallery"
       url: "/data2vis/"
       weight: 2
-    - name: "注意事项"
+    - name: "Python Gallery"
       url: "/data2vis/caveats"
       weight: 3
 params:

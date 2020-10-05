@@ -15,6 +15,11 @@
 
     
       
+      <meta property="description" content="欢迎来到R图库，这是一个用R语言制作的图表集。数以百计的图表被展示在几个部分中，并且总是有其可复制的代码。该图库的重点是tidyverse和ggplot2。欢迎提出图表建议或报告错误，我们非常欢迎任何反馈。通过在Twitter或Github上关注画廊，与它保持联系。如果你是R的新手，可以考虑关注这个课程。
+">
+      <meta property="og:description" content="欢迎来到R图库，这是一个用R语言制作的图表集。数以百计的图表被展示在几个部分中，并且总是有其可复制的代码。该图库的重点是tidyverse和ggplot2。欢迎提出图表建议或报告错误，我们非常欢迎任何反馈。通过在Twitter或Github上关注画廊，与它保持联系。如果你是R的新手，可以考虑关注这个课程。
+">
+      
     
 
     
@@ -34,6 +39,9 @@
     <link rel="stylesheet" href="../css/style.css" />
     <link rel="stylesheet" href="../css/fonts.css" />
     
+<script async src="../js/load-typekit.js"></script>
+
+
 <link rel="stylesheet" href="../css/custom.css" />
 
     <script>
@@ -62,11 +70,23 @@
   
   <li><a href="../">首页</a></li>
   
-  <li class="active"><a href="../data2vis/">画廊</a></li>
+  <li class="active"><a href="../data2vis/">R Gallery</a></li>
   
-  <li><a href="../data2vis/caveats">注意事项</a></li>
+  <li><a href="../data2vis/caveats">Python Gallery</a></li>
   
   
+
+<li class="menu-extra"></li>
+
+
+
+<li><a href="https://github.com/zerostwo/songqi.online/edit/master/content/data2vis/_index.md" target="_blank">编辑</a></li>
+
+
+<li><a href="../data2vis/index.xml" type="application/rss+xml" title="RSS feed">订阅</a></li>
+
+<li><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" title="Attribution-NonCommercial-ShareAlike 4.0 International">版权</a></li>
+
 
   </ul>
 </nav>
@@ -86,24 +106,20 @@
 
 
 
-<div class="archive">
-  
-  <h2 class="archive-title">2020</h2>
-  
-  
-  <p>
-    <span>2020-10-04</span>
-    <a href="../data2vis/violin-plot/">小提琴图</a>
-  </p>
-  
-  <p>
-    <span>2020-10-04</span>
-    <a href="../data2vis/histogram/">直方图</a>
-  </p>
-  
-  
-  
-</div>
+<p>欢迎来到R图库，这是一个用<a href="https://www.r-project.org/about.html">R语言</a>制作的图表集。数以百计的图表被展示在几个部分中，并且总是有其可复制的代码。该图库的重点是tidyverse和ggplot2。欢迎提出图表建议或报告错误，我们非常欢迎任何反馈。通过在Twitter或Github上关注画廊，与它保持联系。如果你是R的新手，可以考虑关注<a href="https://www.datacamp.com/courses/free-introduction-to-r?tap_a=5644-dce66f&amp;tap_s=230804-f65650">这个课程</a>。</p>
+<h1 id="分布类">分布类</h1>
+<ul>
+<li><a href="../data2vis/violin/">小提琴图</a></li>
+<li>密度图</li>
+<li>直方图</li>
+<li>箱型图</li>
+<li>山脊图</li>
+</ul>
+<h1 id="相关性类">相关性类</h1>
+<h1 id="排序类">排序类</h1>
+<h1 id="演化类">演化类</h1>
+<h1 id="地图类">地图类</h1>
+
 
 
   <footer>
@@ -126,6 +142,53 @@ document.addEventListener('keyup', function(e) {
 </script>
 
 
+
+<section class="comments">
+  <div id="disqus_thread"></div>
+  <script>
+  var disqus_config = function () {
+  
+    this.page.url = "https:\/\/songqi.online" + location.pathname;
+  
+  };
+  (function() {
+    var inIFrame = function() {
+      var iframe = true;
+      try { iframe = window.self !== window.top; } catch (e) {}
+      return iframe;
+    };
+    if (inIFrame()) return;
+    var disqus_js = '//duansq.disqus.com/embed.js';
+    var d = document, s = d.createElement('script');
+    s.src = disqus_js; s.async = true;
+    s.setAttribute('data-timestamp', +new Date());
+    var t = d.getElementById('disqus_thread');
+    var b = false, l = function(scroll) {
+      if (b) return;
+      (d.head || d.body).appendChild(s); b = true;
+      if (scroll) t.scrollIntoView();
+    }
+    s.onerror = function(e) {
+      if (sessionStorage.getItem('failure-note')) return;
+      t.innerText = 'Sorry, but you cannot make comments because Disqus failed to load for some reason. It is known to be blocked in China. If you are sure it is not blocked in your region, please refresh the page. 中国大陆地区读者需要翻墙才能发表评论。';
+      t.style.border = '1px dashed';
+      t.style.padding = '.5em';
+      t.style.background = 'lightyellow';
+      sessionStorage.setItem('failure-note', true);
+    };
+    
+    if (location.hash.match(/^#comment-[0-9]+$/)) return l(true);
+    var c = function() {
+      if (b) return;
+      var rect = t.getBoundingClientRect();
+      if (rect.top < window.innerHeight && rect.bottom >= 0) l();
+    };
+    window.addEventListener('load', c);
+    d.addEventListener('scroll', c);
+  })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</section>
 
 
 

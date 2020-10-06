@@ -153,15 +153,15 @@ markup:
       unsafe: true
 
 outputs:
-  cn:
+  home:
     - html
     - rss
     - json
-  data2vis:
+  section:
     - html
     - rss
     - json
-  omics:
+  page:
     - html
     - rss
     - json

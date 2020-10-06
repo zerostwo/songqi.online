@@ -4,6 +4,8 @@
 <script async src="/js/load-typekit.js"></script>
 {{ else if or .IsHome (len (findRE "^/omics/" .RelPermalink)) }}
 <script async src="/js/load-typekit.js"></script>
+{{ else if or .IsHome (len (findRE "^/search/" .RelPermalink)) }}
+<script async src="/js/load-typekit.js"></script>
 {{ if lt (.Date.Year) 2017 }}
 <script>
 (function(u, c) {

@@ -29,12 +29,15 @@ menu:
     - name: "日志"
       url: "/cn/"
       weight: 4
+    - name: "搜索"
+      url: "/search/"
+      weight: 5
     - name: "Data2Vis"
       url: "/data2vis/"
-      weight: 5
+      weight: 6
     - name: "Omics"
       url: "/omics/"
-      weight: 6
+      weight: 7
   en:
     - name: "Home"
       url: "/"
@@ -148,3 +151,17 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+outputs:
+  cn:
+    - html
+    - rss
+    - json
+  data2vis:
+    - html
+    - rss
+    - json
+  omics:
+    - html
+    - rss
+    - json

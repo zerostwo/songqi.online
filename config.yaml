@@ -157,11 +157,11 @@ outputs:
     - html
     - rss
     - json
-  section:
+  page:
     - html
     - rss
     - json
-  page:
+  section:
     - html
     - rss
     - json

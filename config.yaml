@@ -13,6 +13,7 @@ permalinks:
   cn: "/cn/:year/:month/:slug/"
   en: "/en/:year/:month/:slug/"
   data2vis: "/data2vis/:slug/"
+  omics: "/omics/:slug/"
 
 menu:
   main:
@@ -31,6 +32,9 @@ menu:
     - name: "Data2Vis"
       url: "/data2vis/"
       weight: 5
+    - name: "Omics"
+      url: "/omics/"
+      weight: 6
   en:
     - name: "Home"
       url: "/"
@@ -65,15 +69,27 @@ menu:
       weight: 5
 
   data2vis:
-    - name: "首页"
-      url: "/"
-      weight: 1
-    - name: "R Gallery"
+    - name: "主页"
       url: "/data2vis/"
+      weight: 1
+    - name: "小技巧"
+      url: "/data2vis/caveats/"
       weight: 2
-    - name: "Python Gallery"
-      url: "/data2vis/caveats"
+
+  omics:
+    - name: "主页"
+      url: "/omics/"
+      weight: 1
+    - name: "基因组"
+      url: "/omics/genomics/"
+      weight: 2
+    - name: "蛋白组"
+      url: "/omics/proteomics/"
       weight: 3
+    - name: "代谢组"
+      url: "/omics/metabolomics/"
+      weight: 4
+
 params:
   description: "Personal website of Songqi Duan; 段松岐的个人网站"
   footer: "&copy; [Songqi Duan](/) 2018 - 2020"
@@ -108,17 +124,21 @@ params:
     en: "Songqi Duan"
     cn: "段松岐"
     data2vis: "段松岐"
+    omics: "段松岐"
 
   lang:
     edit:
       cn: "编辑"
       data2vis: "编辑"
+      omics: "编辑"
     license:
       cn: "版权"
       data2vis: "版权"
+      omics: "版权"
     subscribe:
       cn: "订阅"
       data2vis: "订阅"
+      omics: "订阅"
 
 blackfriday:
     extensionsmask: ["noIntraEmphasis"]

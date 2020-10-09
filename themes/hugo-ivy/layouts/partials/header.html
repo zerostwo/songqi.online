@@ -19,7 +19,8 @@
     {{ else }}
       {{ $.Scratch.Set "summary" ((delimit (findRE "(<p.*?>(.|\n)*?</p>\\s*)+" .Content) "[&hellip;] ") | plainify | truncate (default 200 .Site.Params.summary_length) (default " &hellip;" .Site.Params.text.truncated)) }}
     {{ end }}
-    <meta  property="og:url" content="https://songqi.online/">
+    <meta property="og:url" content="https://songqi.online/">
+    <meta name="theme-color" content="#fafafa">
 
     {{ if eq .RelPermalink "/" }}
     <meta name="description" content="{{ .Site.Params.description }}">

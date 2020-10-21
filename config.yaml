@@ -3,7 +3,7 @@ languageCode: "zh-cn"
 title: "Songqi Duan | 段松岐"
 theme: "hugo-ivy"
 disqusShortname: "duansq"
-ignoreFiles: ["\\.Rmd$", "_files$", "_cache$"]
+ignoreFiles: ["\\.Rmd$", "_cache$", "\\.Rmarkdown$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 hasCJKLanguage: true
 enableEmoji: true
 footnotereturnlinkcontents: "↩"
@@ -29,12 +29,12 @@ menu:
     - name: "日志"
       url: "/cn/"
       weight: 4
-    - name: "Data2Vis"
-      url: "/data2vis/"
-      weight: 5
-    - name: "Omics"
-      url: "/omics/"
-      weight: 6
+    # - name: "Data2Vis"
+    #   url: "/data2vis/"
+    #   weight: 5
+    # - name: "Omics"
+    #   url: "/omics/"
+    #   weight: 6
   en:
     - name: "Home"
       url: "/"

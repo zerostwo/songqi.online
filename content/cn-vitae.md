@@ -41,9 +41,9 @@ Email：songqi.duan@outlook.com；主页：<https://songqi.online>；现在四�
 
 ## 计算机水平
 
-- 统计软件：[R](http://www.r-project.org/)，Graphpad Prism；
-- 语言：[Python](https://www.python.org/)，[R](http://www.r-project.org/)，HTML/CSS，SQL，Bash
-- 应用程序：Adobe Photoshop，Adobe Illustrator，Office 365
+- 编程语言：[Python](https://www.python.org/)，[R](http://www.r-project.org/)，HTML/CSS，SQL，Bash
+- 统计软件：[R](http://www.r-project.org/)，Graphpad Prism
+- 设计软件：Adobe Photoshop，Adobe Illustrator，Office 365
 - 操作系统：Windows和Ubuntu交替使用
 
 ## 英语水平

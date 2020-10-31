@@ -77,3 +77,37 @@ Email：songqi.duan@outlook.com；主页：<https://songqi.online>；现在四�
 1. 一种人体胃肠道模拟消化器，2020，ZL201921097181.9，**段松岐**；李仍树；张铭月等
 
 1. 一种木姜叶柯活性成分的提取装置，2019，ZL201821730652.0，**段松岐**；李益文；颜滟苏等
+
+## 演讲
+
+本科期间多数演讲为课题组文献分享，少数有几次专业课课程讨论。
+
+- 段松岐，2017.12.09，人工神经网络（ANN）在食品中的应用
+
+- 段松岐，2018.03.11，The Basis of Oncoimmunology and the active of polysaccharide
+
+- 段松岐，2018.04.08，高血糖导致肠屏障功能障碍和肠道感染风险增加
+
+- 段松岐，2018.05.13，抗菌肽类聚合物的合成、组装及生物医学应用
+
+- 段松岐，2018.09.30，Reconstructing Lineage Hierarchies
+
+- 段松岐，2018.11.11，3D Genome and its Disorganization in Diseases
+
+- 段松岐，2019.03.17，多组学分析揭示了秀丽隐杆线虫饥饿应答中脂蛋白代谢的中心作用
+
+- 段松岐，2019.04.13，表观遗传（Epigenetics）一场环境对基因的逆袭
+
+- 段松岐，2019.05.12，如何打造一个光驱动的精细“化工厂”
+
+- 段松岐，2019.10.23，Single Cell RNA Sequencing Technologies and Bioinformatics Pipelines
+
+- 段松岐，2020.03.01，Myeloid cells in liver and bone marrow acquire a functionally distinct inflammatory phenotype during obesity-related steatohepatitis
+
+- 段松岐，2020.05.21，Next Food Revolution CRISPR Cas9
+
+- 段松岐，2020.09.29，科研实践案例汇报答辩
+
+- 段松岐，2020.10.15，3D打印发酵米面包的关键技术研究
+
+- 段松岐，2020.10.24，经验分享之小段的科研经历

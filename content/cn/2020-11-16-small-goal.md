@@ -1,5 +1,5 @@
 ---
-title: 生信分析这条路我要达到什么程度？
+title: 生信分析这条路
 date: '2020-11-16'
 slug: small-goal
 ---

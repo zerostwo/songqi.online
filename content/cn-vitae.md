@@ -26,18 +26,18 @@ Email：songqi.duan@outlook.com；主页：<https://songqi.online>；现在四�
 - 2020.11 [2019-2020学年度第二课堂创新创业活动](https://db.songqi.online/sicau-top-ten-innovation-and-entrepreneurship.JPG)，创新创业十佳，校级
 - 2020.11 [2020年第六届寻找全国大学生百强暑期实践团队](https://db.songqi.online/zqb-best-practice-team.JPG)，最佳实践团队，国家级
 
-### 网站建设与管理
+## 网站建设与管理
 
 2018 年 01 月至今
 
-#### 建设网站
+### 建设网站
 
 - 个人博客：<https://songqi.online>
 - 个人学术主页：<https://academic.songqi.online>
 - 生物信息学笔记：<https://bioinfo.songqi.online>
 - 知乎高考相关专栏统计与排序网站：<https://zzmath.top>
 
-#### 参与项目
+## 参与项目
 
 - 2017.11~2018.11 长根小奥德蘑营养成分的测定及其多糖结构的初步鉴定，校级科研兴趣项目，2018389，柯玉（主持人，已结题）；**段松岐**等
 - 2019.01~2019.12 梭柄松孢菇菌丝面团重组体系的3D精确打印研究，校级科研兴趣项目，2019547，**段松岐**（主持人，已结题）；张铭月；洋汶等

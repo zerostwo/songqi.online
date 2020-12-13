@@ -28,9 +28,7 @@ Email：songqi.duan@outlook.com；主页：<https://songqi.online>；现在四�
 
 ## 网站建设与管理
 
-2018 年 01 月至今
-
-### 建设网站
+2018 年 01 月至今。
 
 - 个人博客：<https://songqi.online>
 - 个人学术主页：<https://academic.songqi.online>

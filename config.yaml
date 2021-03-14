@@ -92,7 +92,7 @@ menu:
 
 params:
   description: "Personal website of Songqi Duan; 段松岐的个人网站"
-  footer: "&copy; [Songqi Duan](/) 2017 - 2021"
+  footer: "[蜀ICP备18027889号-2](https://beian.miit.gov.cn) &copy; [Songqi Duan](/) 2017 - 2021"
   disqusURL: "https://songqi.online"
   customJS:
     - "js/fix-toc.js"

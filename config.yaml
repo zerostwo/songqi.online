@@ -64,9 +64,12 @@ menu:
     - name: "简历"
       url: "/cn/vitae/"
       weight: 4
+    - name: "菜谱"
+      url: "/cn/recipe/"
+      weight: 5
     - name: "English"
       url: "/en/"
-      weight: 5
+      weight: 6
 
   data2vis:
     - name: "主页"
@@ -92,7 +95,7 @@ menu:
 
 params:
   description: "Personal website of Songqi Duan; 段松岐的个人网站"
-  footer: "[蜀ICP备18027889号-2](https://beian.miit.gov.cn) &copy; [Songqi Duan](/) 2017 - 2021"
+  footer: "&copy; [Songqi Duan](/) 2017 - 2021 [蜀ICP备18027889号-2](https://beian.miit.gov.cn)"
   disqusURL: "https://songqi.online"
   customJS:
     - "js/fix-toc.js"

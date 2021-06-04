@@ -25,7 +25,8 @@ Email：songqi.duan@outlook.com；主页：<https://songqi.online>；现在四�
 - 2020.11 [食品学院第十届食品专业技能大赛决赛](https://db.songqi.online/spxy-first-prize.JPG)，一等奖，院级
 - 2020.11 [2019-2020学年度第二课堂创新创业活动](https://db.songqi.online/sicau-top-ten-innovation-and-entrepreneurship.JPG)，创新创业十佳，校级
 - 2020.11 [2020年第六届寻找全国大学生百强暑期实践团队](https://db.songqi.online/zqb-best-practice-team.JPG)，最佳实践团队，国家级
-- 2021.01 四川农业大学2021届优秀大学毕业生，优秀毕业生，校级
+- 2021.01 四川农业大学2021届优秀大学毕业生，校级
+- 2021.06 四川农业大学2021年优秀学士学位论文，校级
 
 ## 网站建设与管理
 

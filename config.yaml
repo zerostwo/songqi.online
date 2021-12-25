@@ -48,9 +48,12 @@ menu:
     - name: "Vitae"
       url: "/en/vitae/"
       weight: 4
+    - name: "Todo"
+      url: "/todo/"
+      weight: 5
     - name: "中文"
       url: "/cn/"
-      weight: 5
+      weight: 6
   cn:
     - name: "首页"
       url: "/"
@@ -67,9 +70,12 @@ menu:
     - name: "菜谱"
       url: "/cn/recipe/"
       weight: 5
+    - name: "事务"
+      url: "/todo/"
+      weight: 6
     - name: "English"
       url: "/en/"
-      weight: 6
+      weight: 7
 
   data2vis:
     - name: "主页"

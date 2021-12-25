@@ -37,7 +37,6 @@ Email：songqi.duan@outlook.com；主页：<https://songqi.online>；现在四�
 - 个人博客：<https://songqi.online>
 - 个人学术主页：<https://academic.songqi.online>
 - 生物信息学笔记：<https://bioinfo.songqi.online>
-- 知乎高考相关专栏统计与排序网站：<https://zzmath.top>
 
 ## 参与项目
 
@@ -84,19 +83,27 @@ Email：songqi.duan@outlook.com；主页：<https://songqi.online>；现在四�
 
 本科期间多数演讲为课题组文献分享，少数有几次专业课课程讨论。
 
-- 2017.12.09，人工神经网络（ANN）在食品中的应用
-- 2018.03.11，The Basis of Oncoimmunology and the active of polysaccharide
-- 2018.04.08，高血糖导致肠屏障功能障碍和肠道感染风险增加
-- 2018.05.13，抗菌肽类聚合物的合成、组装及生物医学应用
-- 2018.09.30，Reconstructing Lineage Hierarchies
-- 2018.11.11，3D Genome and its Disorganization in Diseases
-- 2019.03.17，多组学分析揭示了秀丽隐杆线虫饥饿应答中脂蛋白代谢的中心作用
-- 2019.04.13，表观遗传（Epigenetics）一场环境对基因的逆袭
-- 2019.05.12，如何打造一个光驱动的精细“化工厂”
-- 2019.10.23，Single Cell RNA Sequencing Technologies and Bioinformatics Pipelines
-- 2020.03.01，Myeloid cells in liver and bone marrow acquire a functionally distinct inflammatory phenotype during obesity-related steatohepatitis
-- 2020.05.21，Next Food Revolution CRISPR Cas9
-- 2020.09.29，科研实践案例汇报答辩
-- 2020.10.15，3D打印发酵米面包的关键技术研究
-- 2020.10.24，经验分享之小段的科研经历
-- 2020.12.07，饮食因素与冠心病风险相关性研究
+- 2017.12.09，《人工神经网络（ANN）在食品中的应用》
+- 2018.03.11，《The Basis of Oncoimmunology and the active of polysaccharide》
+- 2018.04.08，《高血糖导致肠屏障功能障碍和肠道感染风险增加》
+- 2018.05.13，《抗菌肽类聚合物的合成、组装及生物医学应用》
+- 2018.09.30，《Reconstructing Lineage Hierarchies》
+- 2018.11.11，《3D Genome and its Disorganization in Diseases》
+- 2019.03.17，《多组学分析揭示了秀丽隐杆线虫饥饿应答中脂蛋白代谢的中心作用》
+- 2019.04.13，《表观遗传（Epigenetics）一场环境对基因的逆袭》
+- 2019.05.12，《如何打造一个光驱动的精细“化工厂”》
+- 2019.10.23，《Single Cell RNA Sequencing Technologies and Bioinformatics Pipelines》
+- 2020.03.01，《Myeloid cells in liver and bone marrow acquire a functionally distinct inflammatory phenotype during obesity-related steatohepatitis》
+- 2020.05.21，《Next Food Revolution CRISPR Cas9》
+- 2020.09.29，《科研实践案例汇报答辩》
+- 2020.10.24，《经验分享之小段的科研经历》
+- 2020.12.07，《饮食因素与冠心病风险相关性研究》
+- 2021.05.11，《发酵米面包的3D可打印性研究》
+- 2021.10.24，《谈谈生物信息学的职业发展》
+- 2021.11.04，《氧化石墨烯作为固定化酶载体对酶性能影响》
+- 2021.11.06，《石墨烯基纳米材料的毒理学评价》
+- 2021.11.16，《Impact of Various Microbial-Fermented Methods on the Chemical Profile of Dark Tea Using a Single Raw Tea Material》
+- 2021.11.17，《来吧，甜蜜的死亡！（Komm, süsser Tod）——一场肠道菌群与甜味剂的“战争”》
+- 2021.11.27，《集中一点，登峰造极》
+- 2021.11.30，《微生物组测序技术简介及数据分析》
+- 2021.12.08，《以肠道菌群为靶点的饮食能够调节人体免疫状态》

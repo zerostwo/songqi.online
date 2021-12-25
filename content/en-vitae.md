@@ -20,8 +20,9 @@ Single-cell RNA seq; Gut flora; Data visualization.
 
 ## Education Background
 
-- 2017.09 ~ Present, Undergraduate, Food Science and Engineering, [Sichuan Agricultural University](https://english.sicau.edu.cn/)
+- 2017.09 ~ 2021.06, Bachelor of Engineering, Food Science and Engineering, [Sichuan Agricultural University](https://english.sicau.edu.cn/)
 
+- 2021.09 ~ Present, Food nutrition and healt, [Sichuan Agricultural University](https://english.sicau.edu.cn/)
 ## Publications
 
 See my [Google Scholar page](https://scholar.google.com/citations?user=cio27iwAAAAJ&hl=en) for a full list of publications.
@@ -54,7 +55,6 @@ I created and maintained web pages for:
 
 - Personal blog: <https://songqi.online>
 - Personal academic homepage: <https://academic.songqi.online>
-- Knowing the statistics and ranking website of college entrance examination related columns: <https://zzmath.top>
 
 ## Computer Skills
 

@@ -14,6 +14,7 @@ permalinks:
   en: "/en/:year/:month/:slug/"
   data2vis: "/data2vis/:slug/"
   omics: "/omics/:slug/"
+  memory: "/memory/:slug/"
 
 menu:
   main:
@@ -29,12 +30,12 @@ menu:
     - name: "日志"
       url: "/cn/"
       weight: 4
-    # - name: "Data2Vis"
-    #   url: "/data2vis/"
-    #   weight: 5
-    # - name: "Omics"
-    #   url: "/omics/"
-    #   weight: 6
+    - name: "Data2Vis"
+      url: "/data2vis/"
+      weight: 5
+    - name: "Omics"
+      url: "/omics/"
+      weight: 6
   en:
     - name: "Home"
       url: "/"
@@ -70,12 +71,15 @@ menu:
     - name: "菜谱"
       url: "/cn/recipe/"
       weight: 5
+    - name: "梦貘"
+      url: "/memory/"
+      weight: 6
     - name: "事务"
       url: "/todo/"
-      weight: 6
+      weight: 7
     - name: "English"
       url: "/en/"
-      weight: 7
+      weight: 8
 
   data2vis:
     - name: "主页"

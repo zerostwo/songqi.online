@@ -11,3 +11,5 @@ slug: omics/genomics
 ## 普通转录组
 
 ## 单细胞转录组
+
+- [单细胞转录组的Marker gene收集](/omics/scrna-marker-gene/)

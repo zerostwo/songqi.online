@@ -8,6 +8,18 @@ for i in $ALL_REPOS; do
   git clone --depth=1 https://github.com/yihui/$i.git
 done
 
+
+# zdict.js needs a custom build
+cd zdict.js
+./build.sh
+cd ..
+
+for i in $ALL_REPOS; do
+  [ -d $i/js ] && cp $i/js/*.js js/
+  [ -d $i/css ] && cp $i/css/*.css css/
+  rm -rf $i
+done
+
 # minify css
 npm install clean-css-cli -g
 cleancss --batch --batch-suffix '.min' css/*.css
@@ -31,3 +43,4 @@ if [ "${VERCEL_ENV:-$CONTEXT}" = "production" ]; then
 else
   hugo -F -D -b ${VERCEL_URL:-$DEPLOY_PRIME_URL}
 fi
+

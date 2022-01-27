@@ -2,11 +2,20 @@
 title: 菜谱
 date: "2021-04-01"
 slug: "cn/recipe"
+customCSS: ["utils/circled-numbers.css"]
 ---
 
 <style type="text/css">
-body { counter-reset: recipe; }
-h2::before { counter-increment: recipe; content: counter(recipe) ". "; }
+h2 {
+  text-align: left;
+  border-top: 1px dashed;
+  padding-top: 1em;
+  margin: 1.5em 0 1em;
+}
+#TableOfContents ~ h1 {
+  background: #f8f8f8;
+  margin: 2em 0 1em;
+}
 </style>
 
 这里收集做的一些菜，每道菜的详细做法点击菜名即可访问。按拼音排序。

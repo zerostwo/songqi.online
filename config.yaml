@@ -71,9 +71,6 @@ menu:
     - name: "菜谱"
       url: "/cn/recipe/"
       weight: 5
-    - name: "梦貘"
-      url: "/memory/"
-      weight: 6
     - name: "事务"
       url: "/todo/"
       weight: 7

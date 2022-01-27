@@ -1,6 +1,6 @@
 ---
 title: Songqi's TODO List
-slug: todo
+slug: "cn/todo"
 ---
 
 ## TODO

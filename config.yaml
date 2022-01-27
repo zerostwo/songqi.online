@@ -50,7 +50,7 @@ menu:
       url: "/en/vitae/"
       weight: 4
     - name: "Todo"
-      url: "/todo/"
+      url: "/cn/todo/"
       weight: 5
     - name: "中文"
       url: "/cn/"
@@ -72,7 +72,7 @@ menu:
       url: "/cn/recipe/"
       weight: 5
     - name: "事务"
-      url: "/todo/"
+      url: "/cn/todo/"
       weight: 7
     - name: "English"
       url: "/en/"
@@ -90,15 +90,21 @@ menu:
     - name: "主页"
       url: "/omics/"
       weight: 1
-    - name: "基因组"
+    - name: "基因组学"
       url: "/omics/genomics/"
       weight: 2
-    - name: "蛋白组"
-      url: "/omics/proteomics/"
+    - name: "表观基因组学"
+      url: "/omics/epigenomics/"
       weight: 3
-    - name: "代谢组"
-      url: "/omics/metabolomics/"
+    - name: "转录组学"
+      url: "/omics/transcriptomics/"
       weight: 4
+    - name: "蛋白组学"
+      url: "/omics/proteomics/"
+      weight: 5
+    - name: "代谢组学"
+      url: "/omics/metabolomics/"
+      weight: 6
 
 params:
   description: "Personal website of Songqi Duan; 段松岐的个人网站"

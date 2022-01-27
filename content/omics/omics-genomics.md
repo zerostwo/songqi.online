@@ -7,9 +7,3 @@ slug: omics/genomics
 
 - [16s rRNA测序](/omics/16s-rrna-sequencing/)
 - 宏基因组测序
-
-## 普通转录组
-
-## 单细胞转录组
-
-- [单细胞转录组的Marker gene收集](/omics/scrna-marker-gene/)

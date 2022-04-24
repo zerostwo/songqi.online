@@ -23,15 +23,11 @@ slug: "todo"
 
 4.  读书报告：限时进食综述
 
-5.  Ythdf2-macrophage的引子
-
 ## 杂事儿
 
 1.  `catplot`逐步完善
-2.  ChiZhang的pyscenic报错
-3.  周五晚上科研经验分享
-4.  Tianli代码检查
-5.  学习视频整理
+2.  找张院报销发票
+3.  组会文献汇报
 
 ## 阅读
 

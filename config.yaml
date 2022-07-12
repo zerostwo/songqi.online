@@ -1,6 +1,7 @@
 baseurl: "https://songqi.online/"
 languageCode: "zh-cn"
-title: "Songqi Duan | 段松岐"
+# title: "Songqi Duan | 段松岐"
+title: "个人学术"
 theme: "hugo-ivy"
 disqusShortname: "duansq"
 ignoreFiles: ["\\.Rmd$", "_cache$", "\\.Rmarkdown$", "\\.knit\\.md$", "\\.utf8\\.md$"]

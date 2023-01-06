@@ -29,15 +29,13 @@ Email：songqi.duan@outlook.com；主页：<https://songqi.online>；现在四�
 - 2020.11 [2020年第六届寻找全国大学生百强暑期实践团队](https://db.songqi.online/zqb-best-practice-team.JPG)，最佳实践团队，国家级
 - 2021.01 [四川农业大学2021届优秀大学毕业生](https://db.songqi.online/sicau-outstanding-university-graduate.png)，校级
 - 2021.06 [四川农业大学2021年优秀学士学位论文](https://db.songqi.online/sicau-outstanding-bachelor-degree-thesis.png)，校级
-- 2022.09 四川农业大学食品学院第二届新“食”代“青葱学术”研究生论坛一等奖，院级
+- 2022.09 [四川农业大学食品学院第二届新“食”代“青葱学术”研究生论坛](https://spxy.sicau.edu.cn/info/1028/15673.htm)，一等奖，院级
 
 ## 网站建设与管理
 
 2018 年 01 月至今。
 
 - 个人博客：<https://songqi.online>
-- 个人学术主页：<https://academic.songqi.online>
-- 生物信息学笔记：<https://bioinfo.songqi.online>
 - Hiplot: <https://hiplot-academic.com>
 
 ## 参与项目
